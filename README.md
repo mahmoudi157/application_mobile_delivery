@@ -7,10 +7,11 @@ create 2021 with mohamed mahmoudi
 
 <table>
   <tr>
-     <td>Splash Screen</td>
-    <td>Register Screen</td>
-     <td>Login Screen</td>
-     <td>Foods Screen</td>
+     <td>Screen</td>
+    <td>Screen</td>
+     <td>Screen</td>
+     <td>Screen</td>
+    <td>Screen</td>
     
   </tr>
   <tr>
