@@ -23,15 +23,3 @@ create 2021 with mohamed mahmoudi
   </tr>
  </table>
  
-<table>
-  <tr>
-    <td>Foods Screen</td>
-     <td>Basket Screen</td>
-     <td>Order Message</td>
-  </tr>
-  <tr>
-    <td><img src="Screenshots/fooDelivery_Screenshot5.jpeg" width=270 height=490></td>
-    <td><img src="Screenshots/fooDelivery_Screenshot6.jpeg" width=270 height=490></td>
-    <td><img src="Screenshots/fooDelivery_Screenshot7.jpeg" width=270 height=490></td>
-  </tr>
- </table>
